@@ -1,0 +1,2 @@
+# Scan-Based-DFT-and-ATPG-Implementation-of-synchronous-FIFO-using-Cadence-tools
+Complete Scan-Based DFT and ATPG Implementation for synchronous FIFO using Cadence Genus and Modus. This project demonstrates RTL synthesis, muxed scan insertion, scan chain verification, ATPG vector generation, and stuck-at fault coverage analysis achieving 99.98% adjusted fault coverage using industrial ASIC DFT flow.
